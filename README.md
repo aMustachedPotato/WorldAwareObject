@@ -5,6 +5,6 @@
 
 **Blueprint Usage:** Add a new blueprint class derived from "WAO". To create a World Aware object, call "Create World Aware Object"
 
-**C++ Usage:** Add "WorldAwareObject" to your project build dependencies and create a class derived from "UWAO". To override OnCreate and OnDestroy events, override the _Implementation_ ( e.g. virtual void OnCreate_Implementation() override ). To create a World Aware Object, include "WAO.h" and call UWAO::CreateWorldAwareObject(...)
+**C++ Usage:** Add "WorldAwareObject" to your project build dependencies and create a class derived from "UWAO". To override OnCreate and OnDestroy events, override the _Implementation_ ( e.g. `virtual void OnCreate_Implementation() override` ). To create a World Aware Object, include "WAO.h" and call `UWAO::CreateWorldAwareObject(...)`
 
 **Got more ideas for this plugin? Share them on the** [discord](https://discord.gg/bDfZd2Chg5)**!**
