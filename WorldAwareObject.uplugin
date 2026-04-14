@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WorldAwareObject",
+	"Description": "A plugin that adds objects that have GetWorld() implemented. Allowing you to spawn actors, get game modes, and more from objects",
+	"Category": "Other",
+	"CreatedBy": "aMustachedPotato",
+	"CreatedByURL": "https://www.fab.com/sellers/aMustachedPotato",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WorldAwareObject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
